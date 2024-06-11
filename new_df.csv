@@ -1,0 +1,359 @@
+brand,model,model_year,milage,fuel_type,engine,transmission,accident,price
+Ford,F-150 XLT,2023,2823,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,58504
+Porsche,911 Carrera S,2013,39000,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,73000
+Ford,Mustang GT Premium,2014,37060,Gasoline,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28500
+BMW,M4 Base,2019,57800,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,55999
+BMW,M5 Base,2013,86000,Gasoline,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+Toyota,Land Cruiser Base,1997,213000,Gasoline,212.0HP 4.5L Straight 6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,26500
+Toyota,Land Cruiser Base,2008,175000,Gasoline,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,37900
+Toyota,Land Cruiser Base,2016,61500,Gasoline,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,63500
+RAM,1500 Laramie,2022,18051,Gasoline,5.7L V8 16V MPFI OHV,Automatic,None reported,47995
+Chevrolet,Corvette Base,2005,143095,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,16000
+Ford,Explorer XLT,2020,61001,Gasoline,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,28616
+BMW,M4 Base,2016,62500,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,40500
+Lexus,GX 460 Base,2018,52100,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,38000
+RAM,1500 Big Horn,2021,70968,Gasoline,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34000
+BMW,M4 Base,2015,26600,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,53000
+BMW,M5 Base,2018,20500,Gasoline,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,67000
+Ford,F-250 Lariat,2019,35597,E85 Flex Fuel,6.2L V8 16V MPFI SOHC Flexible Fuel,6-Speed Automatic,None reported,47756
+Lexus,GX 460 Base,2018,64000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,37300
+BMW,M3 Base,2015,65800,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,44950
+Lexus,ES 350 Base,2008,146000,Gasoline,272.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8995
+RAM,1500 Laramie,2021,38012,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,45277
+BMW,M3 Base,2009,112000,Gasoline,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,28000
+Porsche,911 Carrera S,2017,16701,Gasoline,3.0 Liter,–,None reported,107998
+RAM,1500 Laramie,2019,107714,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,34918
+RAM,1500 Big Horn,2022,14920,Gasoline,3.6L V6 24V MPFI DOHC,Automatic,None reported,41741
+Chevrolet,Corvette Base,1998,7666,Gasoline,340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,39500
+BMW,M4 Base,2020,22655,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,63999
+Porsche,Macan S,2020,19701,Gasoline,3.0 Liter,Automatic,None reported,55998
+Lexus,GX 460 Base,2021,40906,Gasoline,4.6 Liter,Automatic,None reported,51998
+Jeep,Wrangler Unlimited Sport,2013,77634,Gasoline,3.6L V6 24V MPFI DOHC,5-Speed Automatic,None reported,24590
+Ford,F-150 XLT,2020,67516,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,36994
+Lexus,ES 350 Base,2016,39700,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25500
+Porsche,911 Carrera S,2014,30000,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,78500
+Ford,Mustang GT Premium,2012,105500,Gasoline,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,19000
+BMW,M3 Base,2011,105000,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21900
+BMW,M3 Base,2011,72277,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34950
+Ford,Explorer XLT,2020,67015,Gasoline,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,28590
+BMW,M4 Base,2018,19600,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,62000
+BMW,M4 Base,2023,15000,Gasoline,"3L I-6 gasoline direct injection, DOHC, Double VANOS variable va","Automatic, 8-Spd M STEPTRONIC w/Drivelogic, Sport & Manual Modes",None reported,81000
+BMW,M3 Base,2011,114890,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,20990
+Mercedes-Benz,E-Class E 350 4MATIC,2009,171000,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,4750
+BMW,M4 Base,2018,19300,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,64000
+Ford,F-150 Lariat,2017,74349,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,36000
+Ford,F-250 Lariat,2019,85000,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,55000
+Mercedes-Benz,E-Class E 350,2012,31130,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23500
+Toyota,Land Cruiser Base,2016,91000,Gasoline,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,68500
+Jeep,Wrangler Unlimited Sport,2020,24040,Gasoline,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,35273
+Ford,F-150 Lariat,2019,81000,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,38500
+BMW,M4 Base,2020,29140,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,M/T,None reported,71995
+RAM,1500 Laramie,2022,34121,Gasoline,5.7L V8 16V MPFI OHV,Automatic,None reported,48190
+BMW,M3 Base,2023,4106,Gasoline,3.0L I6 24V GDI DOHC Twin Turbo,6-Speed Manual,None reported,84645
+BMW,M3 Base,1999,184700,Gasoline,240.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,36950
+BMW,M5 Base,2018,47700,Gasoline,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,54999
+Ford,F-150 XLT,2018,98000,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,25500
+Ford,Mustang GT,2010,87500,Gasoline,315.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14900
+BMW,M5 Base,2018,31090,Gasoline,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,68000
+Chevrolet,Corvette Base,2005,36700,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,26000
+Ford,Mustang GT,2003,83000,Gasoline,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+BMW,M5 Base,2013,61145,Gasoline,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,37500
+Ford,F-150 Lariat,2011,152000,Gasoline,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14000
+BMW,M4 Base,2018,7200,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,64000
+Lexus,ES 350 Base,2016,51335,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,25995
+RAM,1500 Big Horn,2022,19376,Gasoline,5.7L V8 16V MPFI OHV,Automatic,None reported,45861
+Chevrolet,Camaro 2SS,2016,164000,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,21500
+Ford,F-250 XLT,2010,52246,Diesel,6.4L V8 32V DDI OHV Twin Turbo Diesel,6-Speed Manual,None reported,26095
+Porsche,911 Carrera,2020,23278,Gasoline,3.0 Liter,Automatic,None reported,114998
+BMW,M5 Base,2023,816,Gasoline,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,109900
+Porsche,911 Carrera S,2010,13850,Gasoline,385.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,71400
+Chevrolet,Camaro 2SS,2023,2300,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,51500
+BMW,M5 Base,2018,41000,Gasoline,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,60200
+Porsche,911 Carrera,2014,78000,Gasoline,350.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,68000
+Chevrolet,Corvette Base,2004,43705,Gasoline,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,25900
+Chevrolet,Camaro 2SS,2017,13465,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+BMW,M3 Base,2015,74000,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,M/T,None reported,40000
+Lexus,ES 350 Base,2007,78980,Gasoline,272.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,10600
+Ford,Mustang GT Premium,2016,25717,Gasoline,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33900
+Chevrolet,Corvette Base,2000,97500,Gasoline,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,10000
+Mercedes-Benz,E-Class E 350,2012,59600,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,19900
+Ford,Mustang GT Premium,2021,3000,Gasoline,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,49500
+BMW,M4 Base,2018,10950,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,60995
+Chevrolet,Camaro 2SS,2010,68000,Gasoline,426.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,19500
+Jeep,Wrangler Unlimited Sport,2016,85325,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,30000
+Mercedes-Benz,E-Class E 350,2022,14100,Gasoline,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,53000
+Lexus,GX 460 Base,2018,65900,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,34700
+Chevrolet,Corvette Base,2008,28150,Gasoline,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,31000
+Ford,Explorer XLT,2017,169000,E85 Flex Fuel,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,13000
+Chevrolet,Camaro 2SS,2010,8949,Gasoline,426.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,30000
+Mercedes-Benz,E-Class E 350 4MATIC,2011,199000,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,9250
+Toyota,Land Cruiser Base,1998,160000,Gasoline,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12490
+Porsche,911 Carrera,2007,26021,Gasoline,325.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,53999
+Ford,F-150 XLT,2021,51808,Gasoline,5.0L V8 32V PDI DOHC,10-Speed Automatic,None reported,42388
+Ford,Mustang GT Premium,2011,101000,Gasoline,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18500
+RAM,1500 Laramie,2022,14636,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,46599
+BMW,M3 Base,2008,133500,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18500
+Porsche,911 Carrera S,2017,20561,Gasoline,420.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,105000
+Mercedes-Benz,E-Class E 350 4MATIC,2008,91900,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,8900
+BMW,M5 Base,2006,106000,Gasoline,500.0HP 5.0L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,19500
+BMW,M5 Base,2008,77750,Gasoline,500.0HP 5.0L 10 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,21000
+Mercedes-Benz,E-Class E 350 4MATIC,2010,27000,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,22500
+BMW,M3 Base,2008,77800,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,28500
+Mercedes-Benz,E-Class E 350,2014,55000,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19250
+Jeep,Wrangler Unlimited Sport,2010,107000,Gasoline,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17500
+Lexus,GX 460 Base,2021,39102,Gasoline,4.6 Liter,Automatic,None reported,51798
+BMW,M3 Base,2006,95450,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,42000
+RAM,1500 Laramie,2022,16744,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,46999
+BMW,M4 Base,2015,23700,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42800
+Ford,F-150 XLT,2018,72393,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,35000
+BMW,M3 Base,2016,55250,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,49999
+Ford,Mustang GT Premium,2016,40570,Gasoline,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,30490
+Ford,F-250 Lariat,2017,128000,Diesel,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,50000
+Mercedes-Benz,E-Class E 350 4MATIC,2013,81000,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13000
+Lexus,ES 350 Base,2020,15324,Gasoline,3.5L V6 24V PDI DOHC,8-Speed Automatic,At least 1 accident or damage reported,33364
+Chevrolet,Camaro 2SS,2016,74000,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+Lexus,GX 460 Base,2020,48210,Gasoline,4.6L V8 32V MPFI DOHC,6-Speed Automatic,At least 1 accident or damage reported,47449
+BMW,M3 Base,2003,127273,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+Ford,F-150 XLT,2018,67650,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+Lexus,ES 350 Base,2016,119850,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+Jeep,Wrangler Sport,2016,86250,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22000
+Jeep,Wrangler Sport,2002,103500,Gasoline,190.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,M/T,None reported,12500
+BMW,M3 Base,2011,43000,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,50900
+BMW,M4 Base,2020,31350,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,62450
+Porsche,911 Carrera,2008,132500,Gasoline,325.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35000
+Mercedes-Benz,E-Class E 350 4MATIC,2022,9006,Gasoline,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,56999
+Porsche,Macan S,2020,28570,Gasoline,3.0 Liter Turbo,Automatic,None reported,55998
+RAM,1500 Big Horn,2021,35003,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,40999
+Chevrolet,Corvette Base,2008,80000,Gasoline,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,31000
+BMW,M3 Base,2001,60000,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,25000
+Ford,F-250 Lariat,2019,85000,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,52500
+BMW,M3 Base,2017,44000,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,55000
+BMW,M3 Base,2011,129999,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,29999
+BMW,M3 Base,2008,41048,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38490
+Chevrolet,Corvette Base,2003,145000,Gasoline,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,22000
+Mercedes-Benz,E-Class E 350 4MATIC,2014,84450,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,19000
+Mercedes-Benz,E-Class E 350 4MATIC,2014,76500,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17999
+RAM,1500 Laramie,2022,15607,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,45999
+RAM,1500 Big Horn,2021,49583,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,42816
+Lexus,ES 350 Base,2010,113500,Gasoline,272.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11000
+Ford,F-150 XLT,2020,92000,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,29999
+RAM,1500 Big Horn,2020,25396,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,43250
+RAM,1500 Laramie,2022,18645,Gasoline,5.7L V8 16V MPFI OHV,Automatic,None reported,49700
+Ford,F-150 XLT,2021,43329,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,43642
+RAM,1500 Laramie,2020,10458,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,48815
+BMW,M4 Base,2015,98000,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32999
+Ford,F-250 Lariat,2019,80200,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,42500
+Ford,Mustang GT,2014,38560,Gasoline,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,28500
+Chevrolet,Corvette Stingray w/2LT,2020,12500,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,84999
+Chevrolet,Camaro 2SS,2018,42780,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,41100
+BMW,M3 Base,2011,98200,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,27000
+Jeep,Wrangler Sport,2001,171000,Gasoline,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,15000
+Mercedes-Benz,E-Class E 350 4MATIC,2008,67250,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11900
+Ford,Explorer XLT,2021,33705,Gasoline,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,36995
+Chevrolet,Camaro 2SS,2018,26000,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39000
+Lexus,ES 350 Base,2016,53900,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+BMW,M3 Base,2008,94000,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,25999
+Lexus,GX 460 Base,2015,106000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,37500
+BMW,M3 Base,2015,59000,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,53500
+BMW,M3 Base,2001,81000,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,39000
+Chevrolet,Camaro 2SS,2012,60345,Gasoline,400.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26950
+Chevrolet,Camaro 2SS,2018,8660,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45000
+Ford,F-250 XLT,2019,124000,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,40100
+Ford,Mustang GT Premium,2011,74500,Gasoline,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,22000
+Ford,F-150 XLT,2022,18465,Gasoline,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,47500
+Porsche,Macan S,2015,72329,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,29500
+Mercedes-Benz,E-Class E 350,2014,67350,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,18700
+BMW,M3 Base,2001,66500,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21000
+Chevrolet,Corvette Stingray w/2LT,2021,3053,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,83900
+Ford,Mustang GT Premium,2019,31600,Gasoline,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,41000
+Porsche,911 Carrera,2010,61600,Gasoline,345.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,51750
+BMW,M5 Base,2021,13250,Gasoline,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,86900
+Lexus,ES 350 Base,2011,132000,Gasoline,272.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9999
+Ford,F-150 XLT,2012,207100,Gasoline,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+Ford,F-150 XLT,2017,94000,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26000
+Ford,F-150 XLT,2019,81778,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,32769
+Chevrolet,Camaro 2SS,2022,22000,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,50000
+Ford,F-250 Lariat,2017,132269,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,35900
+Ford,F-150 XLT,2021,25352,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,48459
+Chevrolet,Camaro 2SS,2018,75151,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,45000
+Jeep,Wrangler Sport,2016,74139,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,23000
+Porsche,Macan S,2016,46200,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,41500
+Mercedes-Benz,E-Class E 350,2014,88000,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+Mercedes-Benz,E-Class E 350 4MATIC,2010,67800,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,13999
+Mercedes-Benz,E-Class E 350 4MATIC,2010,86121,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,13600
+Chevrolet,Camaro 2SS,2016,49600,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32500
+BMW,M5 Base,2015,33000,Gasoline,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,65000
+Jeep,Wrangler Unlimited Sport,2019,52775,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39799
+Chevrolet,Corvette Stingray w/2LT,2020,1800,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,76000
+Porsche,Macan S,2016,50000,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,36000
+Jeep,Wrangler Sport,2021,11756,Gasoline,"2L I-4 gasoline direct injection, DOHC, intercooled turbo, engin",Automatic,At least 1 accident or damage reported,33400
+BMW,M3 Base,2016,56235,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,50500
+Toyota,Land Cruiser Base,2000,209193,Gasoline,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+Porsche,Macan S,2022,20250,Gasoline,375.0HP 2.9L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,68500
+Mercedes-Benz,E-Class E 350,2014,35000,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,29998
+Porsche,Macan S,2020,29136,Gasoline,3.0 Liter Turbo,Automatic,None reported,58598
+Lexus,GX 460 Base,2015,92000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28000
+Toyota,Land Cruiser Base,2010,269885,Gasoline,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,22500
+Chevrolet,Corvette Base,2008,51855,Gasoline,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,35900
+Chevrolet,Camaro 2SS,2022,1400,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,54900
+Ford,Mustang GT,2008,64500,Gasoline,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,16000
+Chevrolet,Corvette Base,2004,37622,Gasoline,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+Chevrolet,Camaro 2SS,2015,27000,Gasoline,426.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,33000
+Chevrolet,Corvette Base,1998,152195,Gasoline,340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9900
+Ford,F-250 Lariat,2018,120000,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,55000
+Chevrolet,Corvette Base,2007,20200,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27500
+Lexus,ES 350 Base,2015,100900,Gasoline,3.5 Liter,Automatic,None reported,21998
+Ford,F-150 XLT,2021,24207,Gasoline,2.7L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,43430
+BMW,M3 Base,2009,78414,Gasoline,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,28750
+Ford,Mustang GT,1998,49170,Gasoline,225.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12500
+Jeep,Wrangler Sport,2018,23399,Gasoline,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,28999
+Mercedes-Benz,E-Class E 350,2014,78500,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,17900
+Ford,F-250 XLT,2019,32268,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,46500
+BMW,M3 Base,2002,204884,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21500
+Chevrolet,Corvette Base,2007,28514,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+Ford,Mustang GT Premium,2019,10400,Gasoline,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,40000
+Porsche,Macan S,2019,36700,Gasoline,348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,48990
+Toyota,Land Cruiser Base,2017,65000,Gasoline,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,65000
+Chevrolet,Corvette Stingray w/2LT,2023,5200,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,88900
+BMW,M3 Base,2012,83000,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,31000
+Ford,F-250 XLT,2019,38600,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,54500
+Ford,Mustang GT Premium,2010,58500,Gasoline,315.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,20000
+Chevrolet,Corvette Base,1998,134000,Gasoline,340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,11500
+Ford,Explorer XLT,2013,82900,Gasoline,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16000
+Ford,F-150 XLT,2020,53401,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,39500
+Ford,F-250 XLT,2019,38514,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,45998
+Ford,Explorer XLT,2017,53000,E85 Flex Fuel,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,25000
+Ford,F-250 Lariat,2023,3763,Diesel,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,92000
+Porsche,Macan S,2018,40950,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,39750
+Porsche,911 Carrera S,2023,1877,Gasoline,443.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,185950
+Ford,F-250 XLT,2019,33000,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,59000
+Ford,F-150 XLT,2020,57000,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,37500
+RAM,1500 Laramie,2022,3521,Gasoline,5.7L V8 16V MPFI OHV,Automatic,None reported,51074
+RAM,1500 Laramie,2022,16184,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,46999
+Ford,Explorer XLT,2020,45000,Gasoline,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,33500
+Ford,F-150 Lariat,2013,102000,Gasoline,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,23000
+RAM,1500 Big Horn,2022,11468,Gasoline,5.7L V8 16V MPFI OHV,Automatic,None reported,50204
+Ford,F-250 XLT,2017,29719,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,31000
+BMW,M3 Base,2002,60255,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28750
+Porsche,Macan S,2020,22354,Gasoline,3.0L V6 24V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,None reported,54900
+RAM,1500 Laramie,2022,12940,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,At least 1 accident or damage reported,46999
+Chevrolet,Corvette Base,2007,4048,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,38000
+Jeep,Wrangler Sport,2014,71000,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22000
+Chevrolet,Camaro 2SS,2022,7458,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,47500
+Ford,F-250 XLT,2017,244000,Diesel,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,35500
+RAM,1500 Big Horn,2021,41800,Diesel,260.0HP 3.0L V6 Cylinder Engine Diesel Fuel,8-Speed A/T,None reported,44900
+Ford,Explorer XLT,2014,127558,Gasoline,3.5L V6 24V MPFI DOHC,6-Speed Automatic,None reported,13715
+Ford,F-250 XLT,2016,94300,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,28999
+Jeep,Wrangler Sport,1997,131000,Gasoline,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,5500
+Ford,F-250 XLT,2014,59459,Diesel,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,40999
+RAM,1500 Laramie,2021,24213,Gasoline,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46500
+RAM,1500 Laramie,2020,21165,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,46105
+Ford,F-150 Lariat,2016,117000,Gasoline,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,26500
+Chevrolet,Corvette Base,2006,39132,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,35000
+RAM,1500 Laramie,2022,16616,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,45999
+Ford,F-150 XLT,2022,33818,Gasoline,5.0L V8 32V PDI DOHC,Automatic,None reported,46552
+Chevrolet,Camaro 2SS,2017,62000,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34500
+Porsche,Macan S,2015,80300,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23999
+RAM,1500 Big Horn,2015,140500,Gasoline,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,14000
+Ford,F-150 Lariat,2021,33080,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,47850
+Jeep,Wrangler Sport,2016,41000,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,25000
+Mercedes-Benz,E-Class E 350,2012,95816,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12000
+Jeep,Wrangler Unlimited Sport,2014,132600,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,17000
+Jeep,Wrangler Sport,2010,149460,Gasoline,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10700
+Jeep,Wrangler Sport,2011,109646,Gasoline,3.8L V6 12V MPFI OHV,4-Speed Automatic,None reported,16998
+Lexus,ES 350 Base,2019,49810,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,33900
+Mercedes-Benz,E-Class E 350,2012,82046,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,13999
+Mercedes-Benz,E-Class E 350 4MATIC,2014,83112,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,15500
+Ford,Mustang GT Premium,2013,18000,Gasoline,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,29000
+Jeep,Wrangler Unlimited Sport,2020,33060,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36500
+Jeep,Wrangler Sport,2010,87250,Gasoline,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18500
+Ford,Mustang GT Premium,2012,19900,Gasoline,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26500
+BMW,M5 Base,2015,27000,Gasoline,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,52500
+Ford,Mustang GT,2016,36000,Gasoline,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,31000
+Ford,F-150 Lariat,2020,31250,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+Chevrolet,Corvette Base,2002,44168,Gasoline,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,30000
+Porsche,911 Carrera,2023,19800,Gasoline,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,134900
+Ford,F-250 Lariat,2016,122650,Diesel,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,38900
+Porsche,911 Carrera S,2013,52044,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,76500
+Ford,Mustang GT Premium,2010,69000,Gasoline,315.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,20000
+Ford,Explorer XLT,2017,161000,Gasoline,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17500
+Porsche,911 Carrera S,2020,28000,Gasoline,443.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,134999
+Chevrolet,Corvette Stingray w/2LT,2022,11089,Gasoline,6.2L V8 16V GDI OHV,8-Speed Manual,None reported,80900
+Ford,F-150 XLT,2021,35921,Gasoline,2.7L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,42995
+BMW,M3 Base,2002,117200,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+Ford,F-150 Lariat,2016,25000,E85 Flex Fuel,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,65000
+Porsche,911 Carrera,2005,46200,Gasoline,325.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,49999
+Chevrolet,Corvette Stingray w/2LT,2022,3158,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,85989
+Porsche,911 Carrera,2020,12758,Gasoline,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,107900
+Chevrolet,Corvette Base,2007,123500,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,27000
+Ford,Mustang GT Premium,2018,26840,Gasoline,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,42500
+Chevrolet,Corvette Stingray w/2LT,2022,7900,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,92500
+Ford,Mustang GT,2001,52675,Gasoline,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,16995
+RAM,1500 Laramie,2022,13464,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,46999
+RAM,1500 Laramie,2022,13438,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,46599
+Porsche,911 Carrera S,2013,64000,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,67000
+Chevrolet,Corvette Stingray w/2LT,2021,24670,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72500
+Jeep,Wrangler Sport,2012,57237,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,22500
+Ford,Explorer XLT,2013,149000,Gasoline,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7850
+Ford,F-250 Lariat,2017,50780,Diesel,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,61000
+Mercedes-Benz,E-Class E 350 4MATIC,2014,89563,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,18995
+Lexus,GX 460 Base,2018,75000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,38095
+Ford,F-150 XLT,2019,69800,E85 Flex Fuel,395.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,10-Speed A/T,None reported,34600
+Jeep,Wrangler Unlimited Sport,2017,84786,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,23500
+Ford,F-150 XLT,2016,25880,E85 Flex Fuel,282.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,25500
+Lexus,GX 460 Base,2010,97097,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+Mercedes-Benz,E-Class E 350,2016,58375,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,24999
+Jeep,Wrangler Unlimited Sport,2018,58500,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35000
+Jeep,Wrangler Sport,2000,122945,Gasoline,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,13900
+BMW,M4 Base,2020,28000,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,59900
+Mercedes-Benz,E-Class E 350,2014,53500,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,24500
+Porsche,Macan S,2015,70500,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,26500
+Toyota,Land Cruiser Base,2000,265000,Gasoline,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,15500
+Ford,F-250 Lariat,2015,94634,E85 Flex Fuel,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,32500
+Chevrolet,Corvette Base,2007,65000,Gasoline,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,33885
+Chevrolet,Corvette Base,1996,85760,Gasoline,300.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,14500
+Porsche,911 Carrera S,2007,50500,Gasoline,355.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,56000
+Chevrolet,Corvette Base,2010,23133,Gasoline,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35000
+Ford,Explorer XLT,2022,18533,Gasoline,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,38978
+Ford,Mustang GT Premium,2020,16850,Gasoline,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,41000
+Jeep,Wrangler Unlimited Sport,2014,122200,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21500
+Ford,F-150 XLT,2019,44460,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,34500
+Ford,Mustang GT,2006,27407,Gasoline,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,21750
+Porsche,911 Carrera,2020,11256,Gasoline,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,124900
+Porsche,911 Carrera,2023,1500,Gasoline,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,149000
+BMW,M4 Base,2017,30450,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52999
+Jeep,Wrangler Sport,2017,38200,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29500
+Jeep,Wrangler Sport,2020,26315,Gasoline,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,31871
+Ford,Explorer XLT,2020,42609,Gasoline,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,32107
+Chevrolet,Corvette Stingray w/2LT,2022,2010,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,89000
+Ford,F-150 XLT,2018,53500,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,31500
+Mercedes-Benz,E-Class E 350,2021,72836,Gasoline,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,41000
+Ford,Explorer XLT,2022,20678,Gasoline,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+Ford,Mustang GT Premium,2019,35500,Gasoline,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,32300
+RAM,1500 Big Horn,2014,124000,Gasoline,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24850
+Lexus,ES 350 Base,2019,39000,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,34000
+Ford,Mustang GT,2006,16000,Gasoline,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22000
+Jeep,Wrangler Sport,2023,7102,Gasoline,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,40995
+Porsche,911 Carrera,2016,22500,Gasoline,350.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,78000
+Porsche,911 Carrera S,2013,56985,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,65900
+Ford,F-250 XLT,2019,92671,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,50000
+Porsche,911 Carrera,2020,16741,Gasoline,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,112500
+Ford,Mustang GT,2011,133504,Gasoline,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,23500
+Chevrolet,Corvette Base,2004,40011,Gasoline,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,23500
+RAM,1500 Laramie,2022,15741,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,45999
+Ford,Explorer XLT,2020,17000,Gasoline,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,21000
+Ford,F-150 Lariat,2022,28000,Gasoline,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,53500
+Chevrolet,Corvette Stingray w/2LT,2020,8974,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,79900
+Ford,Mustang GT,2018,53782,Gasoline,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,29950
+Ford,F-150 XLT,2016,71000,E85 Flex Fuel,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,24350
+Ford,F-250 Lariat,2015,68749,Diesel,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,Transmission w/Dual Shift Mode,None reported,45000
+Lexus,GX 460 Base,2012,167000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19470
+Jeep,Wrangler Unlimited Sport,2016,67499,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27500
+BMW,M5 Base,2000,132200,Gasoline,400.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,26900
+Chevrolet,Corvette Stingray w/2LT,2023,2058,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,101999
+Porsche,911 Carrera,2022,2950,Gasoline,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,131000
+Ford,F-150 Lariat,2020,26540,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46995
+Ford,F-250 Lariat,2011,153818,Diesel,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,29800
+Porsche,911 Carrera S,2015,36000,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,84999
+Ford,F-150 Lariat,2018,65441,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+Porsche,911 Carrera,2015,43500,Gasoline,350.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,66500
